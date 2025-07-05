@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Misericórdia Divina e a Urgente Realidade do Inferno</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    
+    <link rel="icon" href="https://placehold.co/32x32/b91c1c/FFFFFF?text=A" type="image/png">
+
+    <style>
+        /* Estilos personalizados */
+        html {
+            scroll-behavior: smooth;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #fdfaf6;
+        }
+        h1, h2, h3, h4 {
+            font-family: 'Lora', serif;
+        }
+        .hero-bg {
+            background-image: url('https://placehold.co/1920x1080/1f2937/f3f4f6?text=PERDENDO-SE');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <header class="bg-white/90 backdrop-blur-md shadow-md sticky top-0 z-50">
+        <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="text-xl md:text-2xl font-bold text-red-800 font-serif">
+                <a href="#">O Grande Alerta</a>
+            </div>
+            <div class="hidden md:flex items-center space-x-6">
+                <a href="#sentido-misericordia" class="text-gray-600 hover:text-red-800 transition">O Sentido da Misericórdia</a>
+                <a href="#visao-faustina" class="text-gray-600 hover:text-red-800 transition">A Visão de Santa Faustina</a>
+                <a href="#estado-mundo-igreja" class="text-gray-600 hover:text-red-800 transition">O Estado do Mundo e da Igreja</a>
+                <a href="#perigo-pecado-mortal" class="text-gray-600 hover:text-red-800 transition">O Perigo do Pecado Mortal</a>
+                <a href="#tempo-misericordia" class="text-gray-600 hover:text-red-800 transition">Um Tempo de Misericórdia</a>
+                <a href="#salvacao" class="text-gray-600 hover:text-red-800 transition">Como se Salvar</a>
+                <a href="#conclusao" class="text-gray-600 hover:text-red-800 transition">Conclusão</a>
+                <a href="#salvacao" class="bg-red-700 text-white px-4 py-2 rounded-full hover:bg-red-800 transition">Como se Salvar</a>
+            </div>
+            <div class="md:hidden">
+                <button class="text-gray-600 focus:outline-none">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+                </button>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero-bg text-white relative">
+            <div class="absolute inset-0 bg-black/60"></div>
+            <div class="container mx-auto px-6 py-32 md:py-48 text-center relative z-10">
+                <h1 class="text-4xl md:text-7xl font-bold leading-tight mb-2 uppercase tracking-wider">Milhões de almas</h1>
+                <h1 class="text-5xl md:text-8xl font-bold leading-tight mb-4 uppercase text-red-500">Caem no Inferno</h1>
+                <p class="text-lg md:text-xl text-gray-300 max-w-2xl mx-auto">Este é um chamado urgente. O destino eterno da sua alma está em jogo.</p>
+            </div>
+        </section>
+
+        <section id="alerta" class="py-16 sm:py-24 bg-white">
+            <div class="container mx-auto px-6 max-w-4xl">
+                <h2 class="text-3xl md:text-4xl font-bold text-center text-red-900 mb-8">A Misericórdia Divina e a Urgente Realidade do Inferno</h2>
+                
+                <div class="text-lg text-gray-700 leading-relaxed space-y-4 text-justify mb-10">
+                    <p>Em meio ao barulho do dia a dia, a pergunta mais importante de todas é muitas vezes esquecida: <em>para onde a minha alma está indo?</em> Este site não foi criado para gerar medo, mas para acender uma luz sobre uma verdade que o mundo tenta apagar. Uma verdade sobre o nosso destino eterno e sobre a infinita misericórdia que nos é oferecida como resgate antes que seja tarde demais.</p>
+                </div>
+
+                <div class="text-lg text-gray-700 leading-relaxed space-y-8 text-justify">
+                    
+                    <div id="sentido-misericordia"> <h3 class="text-2xl font-bold text-gray-800 mb-3">1. O Sentido da Misericórdia: Um Resgate, Não uma Licença</h3>
+                        <p>O fato é que toda a devoção à Divina Misericórdia, que Santa Faustina Kowalska propagou, não faz o menor sentido se não cremos na existência do Inferno. A pergunta é simples: Misericórdia de quê? Misericórdia para quê? A misericórdia de Deus existe para nos livrar do Inferno. O propósito do apostolado de Santa Faustina é exatamente este: que as almas não terminem no Inferno, mas que, confiando na misericórdia de Nosso Senhor Jesus Cristo, alcancem a salvação. Para isso, é necessário crer, arrepender-se dos pecados, confessar-se e confiar. A confiança na Divina Misericórdia é uma realidade concreta, que se manifesta no arrependimento e na Confissão.</p>
+                    </div>
+
+                    <div id="visao-faustina"> <h3 class="text-2xl font-bold text-gray-800 mb-3">2. A Visão de Santa Faustina: A Cegueira que Leva à Perdição</h3>
+                        <p>Já no fim da vida, Santa Faustina teve uma visão do Inferno e, vendo-o, disse: <strong class="text-red-800">"Percebi, no entanto, uma coisa: o maior número das almas que lá estão é, justamente, o daquelas que não acreditavam que o inferno existisse".</strong> Essa é a grande heresia que, infelizmente, se espalhou até dentro da Igreja: a ideia de que um Deus de amor não pode condenar ninguém. Ora, foi exatamente por ser amor que Ele veio nos salvar! Do seu costado transpassado, brotou a fonte de água e de sangue para nos livrar do Inferno. Se você é uma daquelas pessoas que diz: "Ah, imagina se Deus ia condenar alguém", ouça o aviso de Santa Faustina: você é um sério candidato a descobrir, por experiência própria, que o Inferno existe.</p>
+                    </div>
+
+                    <div id="estado-mundo-igreja"> <h3 class="text-2xl font-bold text-gray-800 mb-3">3. O Estado do Mundo e da Igreja: Uma Análise da Realidade</h3>
+                        <p>Um Mundo Distante de Deus: Hoje, existem oito bilhões de seres humanos no planeta. A esmagadora maioria, talvez seis bilhões, nunca ouviu falar de Jesus de uma forma que pudesse gerar fé. O que sabem Dele é tão superficial quanto o que a maioria de nós sabe sobre Confúcio ou Buda. A nós foi revelado que "quem crer e for batizado será salvo", mas essas pessoas não creem. Não estou condenando ninguém, mas a conclusão óbvia é que não sabemos como serão salvas.</p>
+                        <p class="mt-4">A Crise de Fé na Igreja: Peguemos o bilhão de católicos batizados. A maioria não crê verdadeiramente. Usando a Paróquia Cristo Rei como exemplo estatístico, com seus 47 mil fiéis, é evidente que a grande maioria não vem à Missa. Se ficarmos com um percentual otimista de 5% que vêm ao domingo, teremos cerca de 2 a 3 mil pessoas. Dessas, quantas se confessam e estão em estado de graça? Quando um padre atende 30 pessoas, parece muito, mas isso é apenas 1% do total. Por aquilo que nos foi revelado, temos uma multidão na rampa do inferno.</p>
+                    </div>
+
+                    <div id="perigo-pecado-mortal"> <h3 class="text-2xl font-bold text-gray-800 mb-3">4. O Perigo do Pecado Mortal e da Presunção</h3>
+                        <p>O Céu é uma conquista; o Inferno é o destino padrão para onde vai a humanidade se não fizermos nada para mudar. O pecado mortal não é brincadeira, ele nos leva à morte eterna. Faltar à Missa no domingo, ceder a olhares impuros, pornografia, adultério, drogas — tudo isso é tratado com banalidade. A pessoa peca, dá de ombros e diz: "Ah, eu confesso depois". Que presunção é essa? Quem pensa assim está, no fundo, perdendo a fé na existência do Inferno. E se você morrer nesta noite? O que será de você? Essa falta de convicção no dogma do Inferno é a maior armadilha de Satanás e a fonte da perdição de milhões de almas.</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section id="tempo-misericordia" class="py-16 sm:py-24 bg-gray-800 text-white"> <div class="container mx-auto px-6 flex flex-col md:flex-row items-center gap-12">
+                <div class="md:w-2/5">
+                    <img src="https://placehold.co/600x750/1f2937/FFFFFF?text=Jesus, eu confio em Vós" alt="Imagem de Jesus Misericordioso" class="rounded-lg shadow-2xl">
+                </div>
+                <div class="md:w-3/5">
+                    <h2 class="text-3xl md:text-4xl font-bold text-amber-400 mb-6">5. Um Tempo de Misericórdia e Oração: Fátima e Santa Faustina</h2>
+                    <p class="text-lg text-gray-300 leading-relaxed mb-4">As mensagens de Nossa Senhora em Fátima e de Santa Faustina são totalmente compatíveis. Ambas nos chamam a rezar, rezar e rezar para que não venha o castigo.</p>
+                    <p class="text-lg text-gray-300 leading-relaxed mb-4"><strong>O Terço da Misericórdia:</strong> Santa Faustina viu um anjo que iria punir uma cidade, e a única oração que o fez recuar foi o Terço da Divina Misericórdia. Isso se provou real durante a Segunda Guerra Mundial, quando cidades polonesas com grande devoção à Divina Misericórdia foram milagrosamente poupadas dos bombardeios. Esses milagres materiais são um sinal de Deus de que nossa alma, nossa paróquia e nossa cidade podem ser poupadas de um castigo muito pior: a perda de Deus.</p>
+                    <p class="text-lg text-gray-300 leading-relaxed mb-4"><strong>O Clamor de Fátima:</strong> Em Fátima, um anjo também bradava "Penitência, penitência, penitência!", enquanto Nossa Senhora aparava com suas mãos os raios da ira divina que se dirigiam à Terra.</p>
+                    <p class="text-lg text-gray-300 leading-relaxed">Vivemos um tempo de misericórdia, mas ele precisa ser acompanhado de nossa oração e penitência. Precisamos clamar ao Céu, pois com nossos pecados, o que estamos atraindo é a ira divina.</p>
+                </div>
+            </div>
+        </section>
+        
+        <section id="salvacao" class="py-16 sm:py-24 bg-red-50">
+            <div class="container mx-auto px-6">
+                <div class="text-center max-w-3xl mx-auto">
+                    <h2 class="text-3xl md:text-4xl font-bold text-red-900 mb-4">Como se Salvar: O Guia Prático</h2>
+                    <p class="text-lg text-gray-700 leading-relaxed mb-12">
+                        A salvação não é uma teoria, é uma decisão seguida de ação. Aqui estão os passos fundamentais para sair do caminho largo da perdição e entrar na "autoestrada para o Céu".
+                    </p>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                        <h3 class="text-xl font-bold text-red-900 mb-2">1. Arrependimento Sincero</h3>
+                        <p class="text-gray-700">Reconheça seus pecados, deteste-os e decida mudar de vida. Sem arrependimento, não há perdão.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                        <h3 class="text-xl font-bold text-red-900 mb-2">2. Confissão Sacramental</h3>
+                        <p class="text-gray-700">Procure um sacerdote e confesse todos os seus pecados mortais e veniais. A Confissão é o tribunal da misericórdia que restaura a vida de Deus em sua alma.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                        <h3 class="text-xl font-bold text-red-900 mb-2">3. Viver em Estado de Graça</h3>
+                        <p class="text-gray-700">Lute diariamente contra o pecado. Reze, vigie e fuja das ocasiões de pecar para permanecer na amizade com Deus.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                        <h3 class="text-xl font-bold text-red-900 mb-2">4. Frequentar os Sacramentos</h3>
+                        <p class="text-gray-700">Vá à Missa todos os domingos (e sempre que puder) e receba a Eucaristia em estado de graça. É o alimento da alma.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                        <h3 class="text-xl font-bold text-red-900 mb-2">5. Oração Diária</h3>
+                        <p class="text-gray-700">Converse com Deus todos os dias. Reze o Santo Terço e o Terço da Misericórdia. A oração é a força do cristão.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                        <h3 class="text-xl font-bold text-red-900 mb-2">6. Praticar a Caridade</h3>
+                        <p class="text-700">Ame a Deus sobre todas as coisas e ao próximo como a si mesmo. A fé sem obras é morta.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="conclusao" class="py-20 bg-gray-800 text-white"> <div class="container mx-auto px-6 text-center max-w-3xl">
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">Conclusão: O Que Estamos Esperando?</h2>
+                <p class="text-lg text-gray-300 leading-relaxed mb-8">
+                    Existem milhares de almas se perdendo aqui mesmo, no território de nossa paróquia, em nossa arquidiocese. Não vamos rezar por elas? A devoção de parar às três da tarde e rezar o Terço da Misericórdia é um chamado urgente. Vamos rezar por essas almas e por nós mesmos, invocando a Divina e Santa Misericórdia de Nosso Senhor Jesus Cristo.
+                </p>
+                <div class="bg-gray-900/50 p-6 rounded-lg border border-amber-400">
+                    <h3 class="text-xl font-semibold text-amber-400 mb-2">Faça esta oração de entrega:</h3>
+                    <p class="text-lg italic text-left">
+                        "Senhor Jesus, eu creio que sois o Filho de Deus, que morrestes na Cruz para me salvar. Reconheço que sou pecador e que tenho andado longe de Vós. Arrependo-me de todos os meus pecados. Neste momento, eu me entrego a Vós e à Vossa Infinita Misericórdia. Perdoai-me, curai-me e salvai-me. Eu confio em Vós e Vos recebo como meu único Senhor e Salvador. Amém."
+                    </p>
+                </div>
+                <p class="mt-8 text-gray-400">Após esta oração, procure um sacerdote para uma boa Confissão o mais rápido possível.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-gray-900 text-white py-10">
+        <div class="container mx-auto px-6 text-center">
+            <p class="font-serif text-xl text-red-500 mb-2">O Grande Alerta</p>
+            <p class="text-gray-400">Um chamado à conversão e à salvação em Cristo Jesus.</p>
+            <p class="text-gray-500 text-sm mt-4">&copy; 2024. A salvação é urgente.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
